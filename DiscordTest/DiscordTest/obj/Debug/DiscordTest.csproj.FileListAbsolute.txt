@@ -1,0 +1,11 @@
+D:\C# Projects\DiscordTest\DiscordTest\bin\Debug\DiscordTest.exe.config
+D:\C# Projects\DiscordTest\DiscordTest\bin\Debug\DiscordTest.exe
+D:\C# Projects\DiscordTest\DiscordTest\bin\Debug\DiscordTest.pdb
+D:\C# Projects\DiscordTest\DiscordTest\obj\Debug\DiscordTest.csprojAssemblyReference.cache
+D:\C# Projects\DiscordTest\DiscordTest\obj\Debug\DiscordTest.csproj.CoreCompileInputs.cache
+D:\C# Projects\DiscordTest\DiscordTest\obj\Debug\DiscordTest.exe
+D:\C# Projects\DiscordTest\DiscordTest\obj\Debug\DiscordTest.pdb
+D:\C# Projects\DiscordTest\DiscordTest\bin\Debug\SystemLang\alerts.json
+D:\C# Projects\DiscordTest\DiscordTest\bin\Debug\Newtonsoft.Json.dll
+D:\C# Projects\DiscordTest\DiscordTest\bin\Debug\Newtonsoft.Json.xml
+D:\C# Projects\DiscordTest\DiscordTest\obj\Debug\DiscordTest.csproj.CopyComplete
